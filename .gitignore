@@ -210,9 +210,8 @@ Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 
-# SQL Server files
-*.mdf
-*.ldf
+
+
 
 # Business Intelligence projects
 *.rdl.data
@@ -259,3 +258,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/MyVideoApp/App_Data/MyVideoApp_log.ldf
+/MyVideoApp/App_Data/MyVideoApp.mdf
